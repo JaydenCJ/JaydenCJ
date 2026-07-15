@@ -2,11 +2,11 @@
 
 # Jayden
 
-**Small, sharp open-source developer tools — one job each, zero bloat.**
+**iOS apps · websites · open-source developer tools — small, focused, shipped.**
 
-**小而锋利的开源开发者工具 —— 一个工具,只做好一件事。**
+**iOS App · 网站 · 开源开发者工具 —— 小而专注,做完就发。**
 
-**小さく鋭いオープンソース開発者ツール —— 一つのツールは、一つの仕事だけを。**
+**iOS アプリ · ウェブサイト · オープンソース開発者ツール —— 小さく、絞って、出荷する。**
 
 <br/>
 
@@ -21,9 +21,9 @@
 
 ---
 
-**EN** — I build single-purpose command-line tools that do one thing well, run offline, and ship with tests. 500+ and counting.
-**中文** — 我做单一用途的命令行工具:一次只解决一个问题,离线可用,自带测试。目前 500+,还在增加。
-**日本語** — 一つの問題だけを解く単機能 CLI ツールを作っています。オフライン動作・テスト同梱。現在 500+、増加中。
+**EN** — I ship iOS apps and websites, and I open-source the small developer tools I build along the way — single-purpose, offline-first, tested. The 500+ CLIs below are that open-source side.
+**中文** — 我做 iOS App 和网站,顺手把途中造的小工具开源 —— 单一用途、离线可用、自带测试。下面 500+ 个 CLI 就是这块开源的部分。
+**日本語** — iOS アプリとウェブサイトを作りつつ、その過程で生まれた小さなツールをオープンソース化しています —— 単機能・オフライン動作・テスト同梱。下記 500+ の CLI がそのオープンソース分です。
 
 ---
 
